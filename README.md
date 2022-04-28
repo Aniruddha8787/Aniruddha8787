@@ -21,7 +21,7 @@
 
 - 💬 Talk to me about React, JavaScript,
   
-- 👨‍💻 Visit my portfolio at [https://anirudh_portfolio.dorik.io/](https://anirudh_portfolio.dorik.io/)
+- 👨‍💻 Visit my portfolio at [https://anirudh.dorik.io/](https://anirudh.dorik.io/)
 
 - 📫 Reach me at **aniruddha87@live.com**
 
