@@ -21,7 +21,7 @@
 
 - 💬 Talk to me about React, JavaScript,
   
-- 👨‍💻 Visit my portfolio at [click](https://aniruddhanalage.netlify.app/)
+- 👨‍💻 Visit my portfolio at [click](https://aniruddha8787.github.io/)
 
 - 📫 Reach me at **aniruddha87@live.com**
 
