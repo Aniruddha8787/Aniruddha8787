@@ -3,7 +3,7 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
   <div align="center">
-<img width="90%" height = "200px" src="https://rishavanand.github.io/static/images/greetings.gif" align="center"  />
+<img width="50%" height = "200px" src="https://rishavanand.github.io/static/images/greetings.gif" align="center"  />
 </div>  
   
 
