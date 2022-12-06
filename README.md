@@ -1,11 +1,10 @@
 
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
-  <div align="center">
-<img width="50%" height = "200px" src="https://rishavanand.github.io/static/images/greetings.gif" align="center"  />
-</div>  
-  
+
+ <div align="center">
+<img width="90%" height = "300px" src="https://cdn-images-1.medium.com/max/800/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" alt="cover" />
+</div>
 
 ### <div align="center">I'm Aniruddha a full-stack developer 👨‍💻 from Pune, MH 🚀</div>  
 
@@ -52,9 +51,7 @@
   </span>
 
 
-<div align="center">
-<img width="90%" height = "300px" src="https://cdn-images-1.medium.com/max/800/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" alt="cover" />
-</div>
+
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
