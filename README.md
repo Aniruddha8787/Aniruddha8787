@@ -12,7 +12,7 @@
 ### <h3 >I'm Aniruddha, a full-stack developer 👨‍💻 from Pune, MH 🚀</h3>  
 
 
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 70px height='70px'></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -48,12 +48,11 @@
                                                                                                             
                                                                                  
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="90px" height=40px> </h2>
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/anirudh87'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<p align="center"><a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/anirudh87'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href = 'https://www.twitter.com/'https://www.twitter.com/aniruddhaBN'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://medium.com/@aninalage'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
 <a href = 'https://aniruddha8787.github.io'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
-<a href = 'https://www.github.com/https://www.github.com/Aniruddha8787'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
- 
+<a href = 'https://www.github.com/https://www.github.com/Aniruddha8787'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a></p>
 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
