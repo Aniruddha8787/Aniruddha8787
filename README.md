@@ -38,11 +38,11 @@
                                                                                                             
                                                                                  
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="90px" height=40px> </h2>
-               
+ <div align="center" justify-content="space-evenly">              
 <a href = 'https://www.github.com/https://www.github.com/Aniruddha8787'><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-                                                                                                            <a href = 'https://www.linkedin.com/in/anirudh87'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-                                                                                                            <a href = 'https://aniruddha8787.github.io'><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-                                                                                                            
+                                                                                             <a href = 'https://www.linkedin.com/in/anirudh87'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+                                                                                                            <a href = 'https://aniruddha8787.github.io'><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+      </div>                                                                                                            
                                                                                                             
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
